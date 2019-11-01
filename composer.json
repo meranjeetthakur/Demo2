@@ -1,0 +1,19 @@
+{
+    "name": "shoutlara/demotwo",
+    "description": "This is demo two package",
+    "type": "library",
+    "require": {
+        "shoutlara/demoone": "dev-master"
+    },
+    "require-dev": {
+        "shoutlara/demoone": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ranjeet",
+            "email": "meranjeetthakur@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
