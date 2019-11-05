@@ -2,6 +2,9 @@
     "name": "shoutlara/demotwo",
     "description": "This is demo two package",
     "type": "library",
+    "require": {
+        "shoutlara/demoone": "dev"
+    },
     "license": "MIT",
     "authors": [
         {
